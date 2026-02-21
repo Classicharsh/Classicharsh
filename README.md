@@ -2,7 +2,7 @@
   Hi 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
   I'm Suryaaa 
-  <img src="https://media1.giphy.com/media/wr7oA0rSjnWuiLJOY5/giphy.gif" width="70px"/>
+  <img src="https://media1.giphy.com/media/wr7oA0rSjnWuiLJOY5/giphy.gif" width="70px"/>       
 
   <img src="https://komarev.com/ghpvc/?username=Classicharsh&label=Profile%20views&color=0e75b6&style=flat" /> 
 </h1>
@@ -27,15 +27,13 @@
 ---
 
 ## 📌 About Me
-
-- 🎓 B.Tech CSE
-- 🌩️ Currently learning Cloud Computing, Python, and Full Stack Development
-- ♟️ Chess Nerd | 🎧 | 🏋 Likes to lift weights
+- 🎓 B.Tech CSE  
+- 🌩️ Currently learning Cloud Computing, Python, and Full Stack Development  
+- ♟️ Chess Nerd | 🎧 | 🏋 Likes to lift weights  
 
 ---
 
 ## 🛠️ Tech Stack
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,js,html,css,cpp,react,aws,git,github,flutter,nextjs,nodejs,mongodb,express,fastapi,docker&theme=dark" />
 </p>
@@ -43,7 +41,6 @@
 ---
 
 ## 📫 Connect with Me
-
 <p align="left">
   <a href="https://x.com/SuryaSi58597776" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
@@ -92,7 +89,6 @@
 ---
 
 ## 🐍 Contribution Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Classicharsh/Classicharsh/output/github-snake-dark.svg" />
 </p>
