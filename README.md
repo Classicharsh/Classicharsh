@@ -1,86 +1,80 @@
-<h1 align="center" style="color:#cdd6f4;">
-  Hi 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
-  I'm Suryaaa 
-  <img src="https://media1.giphy.com/media/wr7oA0rSjnWuiLJOY5/giphy.gif" width="70px"/>       
+<!-- ================= NEON BANNER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hey%20👋%20I'm%20Harsh&fontSize=40&fontColor=ffffff&color=0:00fff0,100:7f00ff&animation=fadeIn" />
+</p>
 
-  <img src="https://komarev.com/ghpvc/?username=Classicharsh&label=Profile%20views&color=0e75b6&style=flat" /> 
-</h1>
+<!-- ================= TYPING TEXT ================= -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FFF0&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;MERN+Stack+Engineer;App+Builder+🚀;Problem+Solver+%26+Learner" />
+</h2>
+
+<h3 align="center">
+💻 MERN Stack Full-Stack Developer | 🚀 App Builder | 📚 Learner
+</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Classicharsh&theme=onedark" />
+  <img src="https://komarev.com/ghpvc/?username=Classicharsh&label=Profile%20Views&color=00fff0&style=flat" />
+</p>
+
+---
+
+## 🚀 About Me
+- 👋 Hi, I’m **Harsh**, a passionate **Full-Stack Developer**
+- 🧩 I build **scalable MERN stack applications**
+- 🧠 I enjoy **problem-solving** and learning **new technologies**
+- 🎯 Focused on clean code, performance & real-world apps
+
+---
+
+## 🛠️ Skills & Tools (Icons)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,git,github,tailwind,docker,aws&theme=dark" />
+</p>
+
+---
+
+## 👨‍💻 Coding Platforms
+
+<p align="center">
+  <a href="https://leetcode.com/u/Classicharsh/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange" />
+  </a>
+  <a href="https://codeforces.com/profile/Classicharsh">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/Classicharsh">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Classicharsh&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  
-      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CDD6F4&center=true&vCenter=true&repeat=false&width=435&lines=A+passionate+CS+Student+from+India+" />
-    <source media="(prefers-color-scheme: light)" 
-      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C4F69&center=true&vCenter=true&repeat=false&width=435&lines=A+passionate+CS+Student+from+India+" />
-    <img alt="Typing SVG" 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CDD6F4&center=true&vCenter=true&repeat=false&width=435&lines=A+passionate+CS+Student+from+India+" />
-  </picture>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Classicharsh&theme=tokyonight&hide_border=true" />
 </p>
 
-<img align="right" alt="Coding" width="270" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
-
----
-
-## 📌 About Me
-- 🎓 B.Tech CSE  
-- 🌩️ Currently learning Cloud Computing, Python, and Full Stack Development  
-- ♟️ Chess Nerd | 🎧 | 🏋 Likes to lift weights  
-
----
-
-## 🛠️ Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,cpp,react,aws,git,github,flutter,nextjs,nodejs,mongodb,express,fastapi,docker&theme=dark" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Classicharsh&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📫 Connect with Me
-<p align="left">
-  <a href="https://x.com/SuryaSi58597776" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
+## 🧠 LeetCode Stats
 
-  <a href="https://www.linkedin.com/in/surya-pratap-singh-11490332a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://leetcode.com/u/Classicharsh/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-
-  <a href="https://www.kaggle.com/classicharsh" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-
-  <a href="mailto:suryapratapsingh7054039@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Classicharsh?theme=dark&font=Fira+Code&ext=contest" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
-
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Classicharsh&theme=tokyonight&hide_border=true" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Classicharsh&layout=compact&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 📈 Contributions
+## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Classicharsh&theme=nightowl&hide_border=true" />
@@ -88,7 +82,34 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake (Animated)
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Classicharsh/Classicharsh/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Classicharsh/Classicharsh/output/github-contribution-grid-snake.svg" />
 </p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://youtube.com/@harshfpss" target="_blank">
+    <img src="https://cdn.simpleicons.org/youtube/ff0000" height="28" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://instagram.com/classic__harsh" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/e4405f" height="28" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.linkedin.com/in/harshitprajapaticode" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0a66c2" height="28" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://discord.gg/mqrKy32VVh" target="_blank">
+    <img src="https://cdn.simpleicons.org/discord/5865f2" height="28" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">⚡ Code. Build. Learn. Repeat. ⚡</h3>
