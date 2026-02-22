@@ -19,15 +19,15 @@
 ---
 
 ## 🚀 About Me
-- 👋 Hi, I’m **Harsh**, a passionate **Full-Stack Developer**
+- 👋 Hi, I’m **Harsh**
 - 🧩 I build **scalable MERN stack applications**
-- 🧠 I enjoy **problem-solving** and learning **new technologies**
-- 🎯 Focused on clean code, performance & real-world apps
+- 🧠 I enjoy **problem-solving & learning new tech**
+- 🎯 Focused on **clean code, performance & real-world apps**
+- 🎮 Gamer & content creator in free time
 
 ---
 
-## 🛠️ Skills & Tools (Icons)
-
+## 🛠️ Skills & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,git,github,tailwind,docker,aws&theme=dark" />
 </p>
@@ -35,7 +35,6 @@
 ---
 
 ## 👨‍💻 Coding Platforms
-
 <p align="center">
   <a href="https://leetcode.com/u/Classicharsh/">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange" />
@@ -51,7 +50,6 @@
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Classicharsh&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
@@ -67,44 +65,51 @@
 ---
 
 ## 🧠 LeetCode Stats
-
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Classicharsh?theme=dark&font=Fira+Code&ext=contest" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
-
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Classicharsh&theme=nightowl&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Classicharsh&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake (Animated)
+## 📈 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Classicharsh&theme=react-dark&hide_border=true&area=true" />
+</p>
 
+---
+
+## 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/Classicharsh/Classicharsh/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🟡 Pac-Man Eats My Contributions
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Classicharsh/Classicharsh/output/github-contribution-grid-pacman.svg" />
+</p>
 
+---
+
+## 🌐 Connect With Me
 <p align="center">
   <a href="https://youtube.com/@harshfpss" target="_blank">
     <img src="https://cdn.simpleicons.org/youtube/ff0000" height="28" />
   </a>&nbsp;&nbsp;&nbsp;
-
   <a href="https://instagram.com/classic__harsh" target="_blank">
     <img src="https://cdn.simpleicons.org/instagram/e4405f" height="28" />
   </a>&nbsp;&nbsp;&nbsp;
-
   <a href="https://www.linkedin.com/in/harshitprajapaticode" target="_blank">
     <img src="https://cdn.simpleicons.org/linkedin/0a66c2" height="28" />
   </a>&nbsp;&nbsp;&nbsp;
-
   <a href="https://discord.gg/mqrKy32VVh" target="_blank">
     <img src="https://cdn.simpleicons.org/discord/5865f2" height="28" />
   </a>
@@ -113,3 +118,4 @@
 ---
 
 <h3 align="center">⚡ Code. Build. Learn. Repeat. ⚡</h3>
+<h4 align="center">Turning coffee ☕ into scalable code & clean commits</h4>>
