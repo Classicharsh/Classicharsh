@@ -16,7 +16,6 @@
   <img src="https://komarev.com/ghpvc/?username=Classicharsh&label=Profile%20Views&color=00fff0&style=flat" />
 </p>
 
----
 
 ## 🚀 About Me
 - 👋 Hi, I’m **Harsh**
@@ -25,14 +24,12 @@
 - 🎯 Focused on **clean code, performance & real-world apps**
 - 🎮 Gamer & content creator in free time
 
----
 
 ## 🛠️ Skills & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,git,github,tailwind,docker,aws&theme=dark" />
 </p>
 
----
 
 ## 👨‍💻 Coding Platforms
 <p align="center">
@@ -47,7 +44,6 @@
   </a>
 </p>
 
----
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -62,14 +58,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Classicharsh&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
 
 ## 🧠 LeetCode Stats
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Classicharshtheme=dark&font=Fira+Code&ext=contest" />
 </p>
-
----
 
 ## 🏆 GitHub Trophies
 <p align="center">
@@ -83,15 +76,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Classicharsh&theme=react-dark&hide_border=true&area=true" />
 </p>
 
----
-
 
 ## 🟡 Pac-Man Eats My Contributions
 <p align="center">
   <img src="https://raw.githubusercontent.com/Classicharsh/Classicharsh/output/github-contribution-grid-pacman.svg" />
 </p>
 
----
 
 ## 🌐 Connect With Me
 <p align="center">
@@ -109,7 +99,6 @@
   </a>
 </p>
 
----
 
 <h3 align="center">⚡ Code. Build. Learn. Repeat. ⚡</h3>
 <h4 align="center">Turning coffee ☕ into scalable code & clean commits</h4>>
