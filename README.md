@@ -77,10 +77,12 @@
 </p>
 
 
-## 🟡 Pac-Man Eats My Contributions
+## 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Classicharsh/Classicharsh/output/github-contribution-grid-pacman.svg" />
+  <img src="https://raw.githubusercontent.com/Classicharsh/Classicharsh/output/github-snake-dark.svg" />
 </p>
+
 
 
 ## 🌐 Connect With Me
