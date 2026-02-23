@@ -26,8 +26,8 @@
 
 
 ## 🛠️ Skills & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,git,github,tailwind,docker,aws&theme=dark" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,cpp,react,aws,git,github,flutter,nextjs,nodejs,mongodb,express,fastapi,docker&theme=dark" />
 </p>
 
 
@@ -47,11 +47,11 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Classicharsh&show_icons=true&theme=tokyonight&hide_border=true" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Classicharsh&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Classicharsh&theme=tokyonight&hide_border=true" />
+ <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Classicharsh&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -102,3 +102,9 @@
 
 <h3 align="center">⚡ Code. Build. Learn. Repeat. ⚡</h3>
 <h4 align="center">Turning coffee ☕ into scalable code & clean commits</h4>>
+
+
+
+
+
+
