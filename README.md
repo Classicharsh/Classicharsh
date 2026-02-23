@@ -66,7 +66,7 @@
 
 ## 🧠 LeetCode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Classicharsh?theme=dark&font=Fira+Code&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/Classicharshtheme=dark&font=Fira+Code&ext=contest" />
 </p>
 
 ---
