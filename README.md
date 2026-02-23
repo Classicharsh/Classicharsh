@@ -85,12 +85,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Classicharsh/Classicharsh/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ## 🟡 Pac-Man Eats My Contributions
 <p align="center">
