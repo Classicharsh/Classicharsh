@@ -61,14 +61,11 @@
 
 ## 🧠 LeetCode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Classicharshtheme=dark&font=Fira+Code&ext=contest" />
+  <img src="/Classicharshtheme=dark&font=Fira+Code&ext=contest" />
 </p>
 
 ## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Classicharsh&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" />
-</p>
-
+   ![](https://github-trophies.vercel.app/?username=FAKE-SURYA&theme=onedark)
 ---
 
 ## 📈 Contribution Activity
