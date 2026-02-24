@@ -8,18 +8,22 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Generate Pacman animation
+      - name: Generate Pacman Monster Animation
         uses: Platane/snk@v3
         with:
           github_user_name: Classicharsh
+
+          # Pac-Man style output
           outputs: |
-            dist/pacman.svg?color_snake=yellow
-            dist/pacman-dark.svg?palette=github-dark&color_snake=yellow
+            dist/pacman.svg?color_snake=yellow&speed=6
+            dist/pacman-dark.svg?palette=github-dark&color_snake=yellow&speed=6
+
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Publish to output branch
+      - name: Push Pacman files to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
