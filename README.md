@@ -23,7 +23,10 @@
 - 🧠 I enjoy **problem-solving & learning new tech**
 - 🎯 Focused on **clean code, performance & real-world apps**
 - 🎮 Gamer & content creator in free time
-
+  
+## 🏆 GitHub Trophies
+   ![](https://github-trophies.vercel.app/?username=FAKE-SURYA&theme=onedark)
+---
 
 ## 🛠️ Skills & Tools
 <p align="left">
@@ -64,9 +67,7 @@
   <img src="/Classicharshtheme=dark&font=Fira+Code&ext=contest" />
 </p>
 
-## 🏆 GitHub Trophies
-   ![](https://github-trophies.vercel.app/?username=FAKE-SURYA&theme=onedark)
----
+
 
 ## 📈 Contribution Activity
 <p align="center">
@@ -74,13 +75,13 @@
 </p>
 
 
-## 🐍 Contribution Snake
+## My Contribution Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Classicharsh/Classicharsh/output/github-snake-dark.svg" />
-</p>
-
-
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Classicharsh/Classicharsh/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Classicharsh/Classicharsh/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Classicharsh/Classicharsh/output/pacman-contribution-graph.svg">
+</picture>
 
 ## 🌐 Connect With Me
 <p align="center">
