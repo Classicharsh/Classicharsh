@@ -25,7 +25,7 @@
 - 🎮 Gamer & content creator in free time
   
 ## 🏆 GitHub Trophies
-   ![](https://github-trophies.vercel.app/?username=FAKE-SURYA&theme=onedark)
+   ![](https://github-trophies.vercel.app/?username=codeliferitesh&theme=onedark)
 ---
 
 ## 🛠️ Skills & Tools
