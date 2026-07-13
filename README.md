@@ -1,92 +1,67 @@
-👋 Hi, I'm Harshit Prajapati
+👋 Greeting
 
-💻 Full Stack Developer
-⚛️ MERN Stack Developer
-🚀 Next.js & React Developer
-🤖 AI Enthusiast
-🌱 Open Source Learner
+Hi 👋
+I'm Harshit Prajapati
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
+Animated Typing Text
+Full Stack Developer
+MERN Stack Developer
+React & Next.js Developer
+AI Enthusiast
+Open Source Learner
 📍 Location
+
 Kanpur, Uttar Pradesh, India
 
 🎓 Education
+
 B.Tech in Computer Science & Engineering (2022–2026)
 Naraina Group of Institutions
 Dr. A.P.J. Abdul Kalam Technical University (AKTU)
 
-🎯 Current Focus
-• Building scalable Full Stack Applications
-• AI-powered Web Solutions
-• Open Source Contributions
-• Learning Cloud & DevOps
-• Seeking Software Developer Opportunities
-
+🚀 Current Focus
+Building Full Stack Web Applications
+AI-powered Projects
+React & Next.js
+Open Source Contributions
+Looking for Software Developer Opportunities
 🌐 Portfolio
+
 https://harshitprajapati.me
 
 📧 Email
+
 prajapatiharshit130@gmail.com
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💻 Skills
 
-🛠 Tech Stack
+React • Next.js • JavaScript • TypeScript • Node.js • Express.js • MongoDB • PostgreSQL • Supabase • Tailwind CSS • Python • Git • GitHub • Docker • Socket.IO • Firebase • Razorpay • REST APIs • HTML • CSS
 
-Frontend
-React • Next.js • JavaScript • TypeScript • Tailwind CSS
+🔥 Featured Projects
+🚀 StreamTipz
 
-Backend
-Node.js • Express.js • MongoDB • PostgreSQL • Supabase • Firebase
+UPI-based tipping platform for Indian streamers with OBS alerts, creator dashboard and Razorpay integration.
 
-Tools
-Git • GitHub • Docker • Socket.IO • REST API • Razorpay
+🎬 CineVision AI
 
-Languages
-JavaScript • TypeScript • Python • SQL
+Netflix-style AI Movie Recommendation Dashboard using Streamlit and Machine Learning.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🤖 NeuroChat OS
 
-🏆 GitHub Trophies
+Jarvis-inspired AI Desktop Assistant built with Python, Speech Recognition and Automation.
 
-https://github-profile-trophy.vercel.app/?username=Classicharsh&theme=tokyonight&no-frame=true&row=2&column=4
+🌍 Social Links
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+GitHub: https://github.com/Classicharsh
 
-📊 GitHub Stats
+Portfolio: https://harshitprajapati.me
 
-https://github-readme-stats.vercel.app/api?username=Classicharsh&show_icons=true&theme=tokyonight&hide_border=true
+LinkedIn: (Add your LinkedIn URL here)
 
-🔥 GitHub Streak
+Instagram: https://instagram.com/classic__harsh
 
-https://streak-stats.demolab.com?user=Classicharsh&theme=tokyonight&hide_border=true
+YouTube: https://youtube.com/@harshfpss
 
-📈 Most Used Languages
+🎯 Tagline
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=Classicharsh&layout=compact&theme=tokyonight&hide_border=true
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-🚀 Featured Projects
-
-⭐ StreamTipz
-UPI-native tipping platform with OBS Alerts, Razorpay Integration & Creator Dashboard.
-
-⭐ CineVision AI
-AI-powered Movie Recommendation Dashboard.
-
-⭐ NeuroChat OS
-Jarvis-style AI Desktop Assistant built with Python.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-🌐 Connect with Me
-
-GitHub     → https://github.com/Classicharsh
-Portfolio  → https://harshitprajapati.me
-Instagram  → https://instagram.com/classic__harsh
-YouTube    → https://youtube.com/@harshfpss
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-✨ "Building scalable web applications with clean code, modern UI, and AI-powered solutions."
+Building modern web experiences with clean code, scalable architecture, and AI-powered solutions.
