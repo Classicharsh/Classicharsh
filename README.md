@@ -1,103 +1,92 @@
-<!-- ================= NEON BANNER ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hey%20👋%20I'm%20Harsh&fontSize=40&fontColor=ffffff&color=0:00fff0,100:7f00ff&animation=fadeIn" />
-</p>
+👋 Hi, I'm Harshit Prajapati
 
-<!-- ================= TYPING TEXT ================= -->
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FFF0&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;MERN+Stack+Engineer;App+Builder+🚀;Problem+Solver+%26+Learner" />
-</h2>
+💻 Full Stack Developer
+⚛️ MERN Stack Developer
+🚀 Next.js & React Developer
+🤖 AI Enthusiast
+🌱 Open Source Learner
 
-<h3 align="center">
-💻 MERN Stack Full-Stack Developer | 🚀 App Builder | 📚 Learner
-</h3>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Classicharsh&label=Profile%20Views&color=00fff0&style=flat" />
-</p>
+📍 Location
+Kanpur, Uttar Pradesh, India
 
+🎓 Education
+B.Tech in Computer Science & Engineering (2022–2026)
+Naraina Group of Institutions
+Dr. A.P.J. Abdul Kalam Technical University (AKTU)
 
-## 🚀 About Me
-- 👋 Hi, I’m **Harsh**
-- 🧩 I build **scalable MERN stack applications**
-- 🧠 I enjoy **problem-solving & learning new tech**
-- 🎯 Focused on **clean code, performance & real-world apps**
-- 🎮 Gamer & content creator in free time
-  
-## 🏆 GitHub Trophies
-   ![](https://github-trophies.vercel.app/?username=codeliferitesh&theme=onedark)
----
+🎯 Current Focus
+• Building scalable Full Stack Applications
+• AI-powered Web Solutions
+• Open Source Contributions
+• Learning Cloud & DevOps
+• Seeking Software Developer Opportunities
 
-## 🛠️ Skills & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,cpp,react,aws,git,github,flutter,nextjs,nodejs,mongodb,express,fastapi,docker&theme=dark" />
-</p>
+🌐 Portfolio
+https://harshitprajapati.me
 
+📧 Email
+prajapatiharshit130@gmail.com
 
-## 👨‍💻 Coding Platforms
-<p align="center">
-  <a href="https://leetcode.com/u/Classicharsh/">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange" />
-  </a>
-  <a href="https://codeforces.com/profile/Classicharsh">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/Classicharsh">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
-  </a>
-</p>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+🛠 Tech Stack
 
-## 📊 GitHub Stats
-<p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Classicharsh&theme=tokyonight&hide_border=true" />
-</p>
+Frontend
+React • Next.js • JavaScript • TypeScript • Tailwind CSS
 
-<p align="center">
- <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Classicharsh&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+Backend
+Node.js • Express.js • MongoDB • PostgreSQL • Supabase • Firebase
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Classicharsh&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+Tools
+Git • GitHub • Docker • Socket.IO • REST API • Razorpay
 
+Languages
+JavaScript • TypeScript • Python • SQL
 
-## 📈 Contribution Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Classicharsh&theme=react-dark&hide_border=true&area=true" />
-</p>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+🏆 GitHub Trophies
 
-## My Contribution Graph
+https://github-profile-trophy.vercel.app/?username=Classicharsh&theme=tokyonight&no-frame=true&row=2&column=4
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Classicharsh/Classicharsh/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Classicharsh/Classicharsh/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Classicharsh/Classicharsh/output/pacman-contribution-graph.svg">
-</picture>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://youtube.com/@harshfpss" target="_blank">
-    <img src="https://cdn.simpleicons.org/youtube/ff0000" height="28" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/classic__harsh" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/e4405f" height="28" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/harshitprajapaticode" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0a66c2" height="28" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.gg/mqrKy32VVh" target="_blank">
-    <img src="https://cdn.simpleicons.org/discord/5865f2" height="28" />
-  </a>
-</p>
+📊 GitHub Stats
 
+https://github-readme-stats.vercel.app/api?username=Classicharsh&show_icons=true&theme=tokyonight&hide_border=true
 
-<h3 align="center">⚡ Code. Build. Learn. Repeat. ⚡</h3>
-<h4 align="center">Turning coffee ☕ into scalable code & clean commits</h4>>
+🔥 GitHub Streak
 
+https://streak-stats.demolab.com?user=Classicharsh&theme=tokyonight&hide_border=true
 
+📈 Most Used Languages
 
+https://github-readme-stats.vercel.app/api/top-langs/?username=Classicharsh&layout=compact&theme=tokyonight&hide_border=true
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+🚀 Featured Projects
 
+⭐ StreamTipz
+UPI-native tipping platform with OBS Alerts, Razorpay Integration & Creator Dashboard.
+
+⭐ CineVision AI
+AI-powered Movie Recommendation Dashboard.
+
+⭐ NeuroChat OS
+Jarvis-style AI Desktop Assistant built with Python.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🌐 Connect with Me
+
+GitHub     → https://github.com/Classicharsh
+Portfolio  → https://harshitprajapati.me
+Instagram  → https://instagram.com/classic__harsh
+YouTube    → https://youtube.com/@harshfpss
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✨ "Building scalable web applications with clean code, modern UI, and AI-powered solutions."
